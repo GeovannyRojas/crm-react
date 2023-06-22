@@ -1,0 +1,35 @@
+{
+    "clientes":[
+        {
+            "nombre" : "Greovanny (actualizado)",
+            "empresa" : "codigo con Geovanny",
+            "email" : "geo@123.com",
+            "telefono" : "105098071",
+            "notas" : "Nueva nota",
+            "id" : 1
+        },
+        {
+            "nombre" : "Astri Gutierrez",
+            "empresa" : "codigo con Astrid",
+            "email" : "Astrid@123.com",
+            "telefono" : "908050840",
+            "notas" : "Nueva codigo",
+            "id" : 3
+        },
+        {
+            "nombre" : "Clarenza Gonzalez",
+            "empresa" : "codigo con Clarenza",
+            "email" : "Clarenza@123.com",
+            "telefono" : "209874655",
+            "id" : 4
+        },
+        {
+            "nombre":"Miguel",
+            "empresa":"codigo con Miguel",
+            "email":"miguel@ivan.com",
+            "telefono":"109292",
+            "notas":"El cliente desea un ecommerce",
+            "id":5
+            }
+    ]
+}
